@@ -1,0 +1,10 @@
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\bin\Debug\Projektuppgift Lotto.exe.config
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\bin\Debug\Projektuppgift Lotto.exe
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\bin\Debug\Projektuppgift Lotto.pdb
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\obj\Debug\Projektuppgift Lotto.csprojAssemblyReference.cache
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\obj\Debug\Projektuppgift_Lotto.Form1.resources
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\obj\Debug\Projektuppgift_Lotto.Properties.Resources.resources
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\obj\Debug\Projektuppgift Lotto.csproj.GenerateResource.cache
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\obj\Debug\Projektuppgift Lotto.csproj.CoreCompileInputs.cache
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\obj\Debug\Projektuppgift Lotto.exe
+C:\Users\0205FLBE\source\repos\Projektuppgift Lotto\Projektuppgift Lotto\obj\Debug\Projektuppgift Lotto.pdb
